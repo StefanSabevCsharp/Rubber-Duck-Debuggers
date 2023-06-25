@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubber Duck Debuggers", "Rubber Duck Debuggers\Rubber Duck Debuggers.csproj", "{19E76165-216E-4ADB-B8DD-295B0C212E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Squirrel", "The Squirrel\The Squirrel.csproj", "{0E8A06E2-1F4A-4D15-A9BD-AF5200EC874A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E76165-216E-4ADB-B8DD-295B0C212E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E76165-216E-4ADB-B8DD-295B0C212E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E76165-216E-4ADB-B8DD-295B0C212E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E76165-216E-4ADB-B8DD-295B0C212E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8A06E2-1F4A-4D15-A9BD-AF5200EC874A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8A06E2-1F4A-4D15-A9BD-AF5200EC874A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8A06E2-1F4A-4D15-A9BD-AF5200EC874A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8A06E2-1F4A-4D15-A9BD-AF5200EC874A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EFD7EED-6230-4041-AB58-7654A3D1B403}
+	EndGlobalSection
+EndGlobal
